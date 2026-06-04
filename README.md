@@ -9,7 +9,6 @@
 ### 🙋 About me
 Final-year B.Tech IT student at St. Joseph's College of Engineering, Chennai (CGPA: 8.14).
 I build full-stack web apps using the MERN stack and automate workflows with UiPath RPA.
-Currently seeking **Full Stack Developer Intern** or **Entry-Level Software Engineer** roles.
 
 ---
 
@@ -52,5 +51,5 @@ Currently seeking **Full Stack Developer Intern** or **Entry-Level Software Engi
 ---
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranmanish-s/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saransaran7170@gmail.com)
