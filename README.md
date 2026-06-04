@@ -28,8 +28,8 @@ I build full-stack web apps using the MERN stack and automate workflows with UiP
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Saranmanish](https://github.com/Saranmanish007)&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranmanish&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saranmanish-S&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranmanish-S&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
