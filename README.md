@@ -1,4 +1,4 @@
-# Saranmanish
+# Saranmanish S
 <h1 align="center">Hi 👋, I'm Saranmanish S</h1>
 <h3 align="center">Full Stack Developer · MERN Stack · UiPath RPA</h3>
 
